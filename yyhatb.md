@@ -12,7 +12,7 @@ timezone: UTC+8
 3. 你认为你会完成本次残酷学习吗？<br>
    -- 会
 5. 你的联系方式（推荐 Telegram）<br>
-   --  @yyhatb
+   --  https://t.me/yyhatb
 
 ## Notes
 
