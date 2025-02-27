@@ -17,7 +17,7 @@ timezone: UTC+8
    了解一些web3内容但是有限 看过北大肖老师课程有个基础概念
    春招中可能时间有限但是本着兴趣出发会 完美完成相信自己 
 5. 你的联系方式（推荐 Telegram）:
-   htttps://t.me/Benson_meng
+   https://t.me/Benson_meng
 
 ## Notes
 
