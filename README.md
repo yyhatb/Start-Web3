@@ -176,7 +176,9 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [tangcupaiguxiang](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/tangcupaiguxiang.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [hub3r3](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/hub3r3.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [Crocs77](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Crocs77.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [Ric-Li-C](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Ric-Li-C.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
