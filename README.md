@@ -174,7 +174,9 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [202141521](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/202141521.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [AlengYou](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/AlengYou.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [tangcupaiguxiang](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/tangcupaiguxiang.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [hub3r3](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/hub3r3.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
