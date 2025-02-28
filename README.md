@@ -179,7 +179,9 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [Ric-Li-C](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Ric-Li-C.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [LiuWillows](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/LiuWillows.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [ixiejun](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/ixiejun.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [debugzhao](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/debugzhao.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
