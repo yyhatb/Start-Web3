@@ -180,7 +180,9 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [LiuWillows](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/LiuWillows.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [ixiejun](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/ixiejun.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 | [debugzhao](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/debugzhao.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [asanqi2010](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/asanqi2010.md) |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
