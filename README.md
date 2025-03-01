@@ -188,7 +188,9 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [Su-u-un](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Su-u-un.md) | | | | | | | | | | | | | | | | | | | | | |
 | [PI-33](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/PI-33.md) | | | | | | | | | | | | | | | | | | | | | |
 | [BaseAI998](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/BaseAI998.md) | | | | | | | | | | | | | | | | | | | | | |
+| [Zisaac52](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Zisaac52.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
