@@ -7,8 +7,8 @@ timezone: UTC+8
 
 # tangcupaiguxiang
 
-1. 小白，希望能获取知识
-2. 努力完成
+1. 小白
+2. 会
 3. @tangcupaiguxiang
 
 ## Notes
