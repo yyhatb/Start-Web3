@@ -5,11 +5,11 @@ timezone: UTC+8
 > 请在上边的 timezone 添加你的当地时区(UTC)，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
 
 
-# tangcupaiguxiang
+# Cynthia
 
-1. 小白
-2. 会
-3. @tangcupaiguxiang
+1. 目前从事E-commercial的工作 想了解并学习web3知识
+2. 可以～
+3. ROKAR_4EVA
 
 ## Notes
 

@@ -7,10 +7,9 @@ timezone: UTC+8
 
 # tangcupaiguxiang
 
-1. 小白
-2. 会
-3. @tangcupaiguxiang
-
+1. mathematics student who wants to learn Web3
+2. 能完成的！
+3. @LiuWillows
 ## Notes
 
 <!-- Content_START -->
