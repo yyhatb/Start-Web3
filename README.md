@@ -184,7 +184,9 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [Winkler77](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Winkler77.md) | | | | | | | | | | | | | | | | | | | | | |
 | [SixLi666](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/SixLi666.md) | | | | | | | | | | | | | | | | | | | | | |
 | [marvelshan](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/marvelshan.md) | | | | | | | | | | | | | | | | | | | | | |
+| [huxlife](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/huxlife.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
