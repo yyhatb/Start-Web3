@@ -191,7 +191,9 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [Zisaac52](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Zisaac52.md) | | | | | | | | | | | | | | | | | | | | | |
 | [abelking](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/abelking.md) | | | | | | | | | | | | | | | | | | | | | |
 | [Ayyf](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Ayyf.md) | | | | | | | | | | | | | | | | | | | | | |
+| [Sherry0341](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Sherry0341.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
