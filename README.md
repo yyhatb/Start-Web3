@@ -206,7 +206,9 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [joycexingji-web](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/joycexingji-web.md) | | | | | | | | | | | | | | | | | | | | | |
 | [felix-Hex](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/felix-Hex.md) | | | | | | | | | | | | | | | | | | | | | |
 | [Slienfore](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Slienfore.md) | | | | | | | | | | | | | | | | | | | | | |
+| [sysy-sysy](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/sysy-sysy.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
