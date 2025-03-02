@@ -216,7 +216,9 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [yuansixiii](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/yuansixiii.md) | | | | | | | | | | | | | | | | | | | | | |
 | [hboolean](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/hboolean.md) | | | | | | | | | | | | | | | | | | | | | |
 | [Nazca532](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Nazca532.md) | | | | | | | | | | | | | | | | | | | | | |
+| [ricarduuu](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/ricarduuu.md) | | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
