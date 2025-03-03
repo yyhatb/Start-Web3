@@ -193,7 +193,7 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [Ayyf](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Ayyf.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [Sherry0341](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Sherry0341.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [Azhan1431](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Azhan1431.md) |   | | | | | | | | | | | | | | | | | | | | |
-| [looooloooo](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/looooloooo.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [looooloooo](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/looooloooo.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [DrakeNotJack](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/DrakeNotJack.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [linyuanye3](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/linyuanye3.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [iwnebin](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/iwnebin.md) |   | | | | | | | | | | | | | | | | | | | | |
@@ -223,6 +223,7 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [PavelTsao](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/PavelTsao.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [DaiNastyWeb3](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/DaiNastyWeb3.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
