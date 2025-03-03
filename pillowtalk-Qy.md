@@ -5,22 +5,23 @@ timezone: UTC+8
 > 请在上边的 timezone 添加你的当地时区(UTC)，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
 
 
-# Barry
+# Qy
 
 1. 自我介绍
-    web2开发者
+Qy
 2. 你认为你会完成本次残酷学习吗？
-    会的
+yes
 3. 你的联系方式（推荐 Telegram）
-    telegram： @tobeorntobe
+pillowtalk_Qy (V)
 
 ## Notes
 
 <!-- Content_START -->
 
-### 2025.03.03
+### 2025.07.11
 
-基本知识学习，之前有了解过，又学习了一下
+笔记内容
 
+### 2025.07.12
 
 <!-- Content_END -->
