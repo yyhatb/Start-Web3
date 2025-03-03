@@ -201,7 +201,7 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [007Windy](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/007Windy.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [leticiawu-web3](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/leticiawu-web3.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [HappinessTime](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/HappinessTime.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
-| [lupin36079](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/lupin36079.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [lupin36079](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/lupin36079.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [Wonder0918](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Wonder0918.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [joycexingji-web](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/joycexingji-web.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [felix-Hex](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/felix-Hex.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
@@ -219,12 +219,13 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [ricarduuu](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/ricarduuu.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [rowena78778](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/rowena78778.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [pillowtalk-Qy](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/pillowtalk-Qy.md) |   | | | | | | | | | | | | | | | | | | | | |
-| [Moizwmoi](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Moizwmoi.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [Moizwmoi](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Moizwmoi.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [PavelTsao](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/PavelTsao.md) |  ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ | ⭕️ |
 | [DaiNastyWeb3](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/DaiNastyWeb3.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [gopractitioner](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/gopractitioner.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [L-sage](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/L-sage.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
