@@ -205,7 +205,7 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [Wonder0918](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Wonder0918.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [joycexingji-web](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/joycexingji-web.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [felix-Hex](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/felix-Hex.md) |   | | | | | | | | | | | | | | | | | | | | |
-| [Slienfore](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Slienfore.md) |   | | | | | | | | | | | | | | | | | | | | |
+| [Slienfore](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Slienfore.md) | ✅ | | | | | | | | | | | | | | | | | | | | |
 | [sysy-sysy](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/sysy-sysy.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [joycexingji-web3](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/joycexingji-web3.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [Pearl1978](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Pearl1978.md) |   | | | | | | | | | | | | | | | | | | | | |
@@ -223,6 +223,7 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [PavelTsao](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/PavelTsao.md) |   | | | | | | | | | | | | | | | | | | | | |
 | [DaiNastyWeb3](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/DaiNastyWeb3.md) |   | | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
