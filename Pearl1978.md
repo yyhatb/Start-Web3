@@ -12,10 +12,17 @@ timezone: UTC+8
 
 ## Notes
 
-<!-- Content_START -->
+<  -- Content_START -->
 
-### 2025.07.11
+### 2025.03.03
+今天第一天打卡，学习了chapter1的内容
+1. what is web3
+2. understanding web3
+了解了web1, web2,web3的区别。
 
+初步学习了charpter2里区块链的基本概念，密码学技术和区块链的构建。
+初识layer1和layer2的逻辑
+明日继续
 笔记内容
 
 ### 2025.07.12
