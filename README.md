@@ -180,7 +180,7 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [LiuWillows](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/LiuWillows.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [ixiejun](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/ixiejun.md) | ✅ |   | | | | | | | | | | | | | | | | | | | |
 | [debugzhao](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/debugzhao.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
-| [asanqi2010](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/asanqi2010.md) | ⭕️ | ✅ | | | | | | | | | | | | | | | | | | | |
+| [asanqi2010](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/asanqi2010.md) | ✅ |   | | | | | | | | | | | | | | | | | | | |
 | [Winkler77](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Winkler77.md) | ✅ |   | | | | | | | | | | | | | | | | | | | |
 | [SixLi666](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/SixLi666.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [marvelshan](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/marvelshan.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
@@ -225,6 +225,7 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [gopractitioner](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/gopractitioner.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [L-sage](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/L-sage.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
 
 
 
