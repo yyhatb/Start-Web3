@@ -7,7 +7,7 @@ timezone: UTC+8
 
 # 你的名字
 
-1. huxlife 一个web3小白，希望这次能掌握
+1. huxlife 一个web3小白，android程序员，现在打算转行。
 2. 这次必然会完成学习任务
 
 
