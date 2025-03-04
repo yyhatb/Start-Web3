@@ -6,7 +6,7 @@ timezone: Asia/Shanghai
 
 1. 自我介绍
 
-Ric Li C, 家庭主夫，天天在家带 2 个女儿。自学了 Solidity，NextJS，TypeScript，前一段时间在 BSC 链上，发行了个人的慈善性质的 NFT 项目：MAS Awareness (https://mas-awareness.top)。
+Ric Li C, 家庭主夫，天天在家带 2 个女儿。自学了 Solidity，NextJS，TypeScript，前一段时间在 BSC 链上，发行了个人的慈善性质的 NFT 项目：[MAS Awareness](https://mas-awareness.top)。
 
 2. 你认为你会完成本次残酷学习吗？
 
@@ -14,7 +14,7 @@ Yes 75%
 
 3. 你的联系方式（推荐 Telegram）
 
-https://t.me/ric_li_c
+Telegram 短消息 [Ric Li C](https://t.me/ric_li_c)
 
 ## Notes
 
@@ -26,7 +26,7 @@ https://t.me/ric_li_c
 -   Web 2：数据读写；
 -   Web 3：数据去中心化；用户拥有自己的数据，交易受到加密技术保障。
 
-### 个人感想：
+### _个人感想_：
 
 用户真的拥有自己的数据么？其实这只是宣传口号而已。
 
@@ -46,7 +46,7 @@ https://t.me/ric_li_c
 
 数字资产的风险
 
-### 个人感想：
+### _个人感想_：
 
 数字资产的优点：
 其实这些都是宣传语，数字资产未必稀缺；去中心化也并非它的特性；就更谈不上安全性了。
