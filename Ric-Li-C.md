@@ -6,7 +6,7 @@ timezone: Asia/Shanghai
 
 1. 自我介绍
 
-Ric Li C, 家庭主夫，天天在家带 2 个女儿。自学了 Solidity，NextJS，TypeScript，前一段时间在 BSC 链上，发行了个人的慈善性质的 NFT 项目：[MAS Awareness](https://mas-awareness.top)。
+Ric Li C, 家庭主夫，天天在家带 2 个女儿。自学了 Solidity，NextJS，TypeScript，前一段时间在 BSC 链上，发行了个人的慈善性质的 NFT 项目：<a href="https://mas-awareness.top" target="_blank">MAS Awareness</a>。
 
 2. 你认为你会完成本次残酷学习吗？
 
@@ -14,7 +14,7 @@ Yes 75%
 
 3. 你的联系方式（推荐 Telegram）
 
-Telegram 短消息 [Ric Li C](https://t.me/ric_li_c)
+Telegram 短消息 <a href="https://t.me/ric_li_c" target="_blank">Ric Li C</a>
 
 ## Notes
 
