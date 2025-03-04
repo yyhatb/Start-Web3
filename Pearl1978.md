@@ -5,26 +5,26 @@ timezone: UTC+8
 > 请在上边的 timezone 添加你的当地时区(UTC)，这会有助于你的打卡状态的自动化更新，如果没有添加，默认为北京时间 UTC+8 时区
 
 
-# Pearl1978
-1. 自我介绍：web3小白
-2. 你认为你会完成本次残酷学习吗？必须的
-3. 你的联系方式（推荐 Telegram）@Pearl_Liang
+
+pearl1978
+1. 自我介绍
+  - web3 小白
+
+    
+2. 你认为你会完成本次残酷学习吗？
+  - 会
+3. 你的联系方式（推荐 Telegram）
+  - @Pearl_Liang
 
 ## Notes
 
-<  -- Content_START -->
+<!-- Content_START -->
 
 ### 2025.03.03
-今天第一天打卡，学习了chapter1的内容
-1. what is web3
-2. understanding web3
-了解了web1, web2,web3的区别。
 
-初步学习了charpter2里区块链的基本概念，密码学技术和区块链的构建。
-初识layer1和layer2的逻辑
-明日继续
-笔记内容
-
-### 2025.07.12
+- web3 是什么
+- 理解web1,2,3的区别， web3是去中心化平台个体之间的交流
+- 区块链中的密码技术：构建安全的数字桥梁。
+  
 
 <!-- Content_END -->
