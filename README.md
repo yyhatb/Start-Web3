@@ -151,7 +151,7 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 <!-- START_COMMIT_TABLE -->
 | Name | 3.03 | 3.04 | 3.05 | 3.06 | 3.07 | 3.08 | 3.09 | 3.10 | 3.11 | 3.12 | 3.13 | 3.14 | 3.15 | 3.16 | 3.17 | 3.18 | 3.19 | 3.20 | 3.21 | 3.22 | 3.23 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| [ztm0929](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/ztm0929.md) | ✅ |   | | | | | | | | | | | | | | | | | | | |
+| [ztm0929](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/ztm0929.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [zhsama](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/zhsama.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [klora-sun](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/klora-sun.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [lucky-ti](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/lucky-ti.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
@@ -200,7 +200,7 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [ruinjay](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/ruinjay.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [007Windy](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/007Windy.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [leticiawu-web3](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/leticiawu-web3.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [HappinessTime](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/HappinessTime.md) | ✅ |   | | | | | | | | | | | | | | | | | | | |
+| [HappinessTime](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/HappinessTime.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [lupin36079](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/lupin36079.md) | ✅ |   | | | | | | | | | | | | | | | | | | | |
 | [Wonder0918](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Wonder0918.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [joycexingji-web](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/joycexingji-web.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
@@ -213,10 +213,10 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [StarryDeserts](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/StarryDeserts.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [YunaQuinn](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/YunaQuinn.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [mangossyang](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/mangossyang.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
-| [yuansixiii](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/yuansixiii.md) | ✅ |   | | | | | | | | | | | | | | | | | | | |
+| [yuansixiii](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/yuansixiii.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [hboolean](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/hboolean.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [Nazca532](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Nazca532.md) | ✅ |   | | | | | | | | | | | | | | | | | | | |
-| [ricarduuu](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/ricarduuu.md) | ✅ |   | | | | | | | | | | | | | | | | | | | |
+| [ricarduuu](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/ricarduuu.md) | ✅ | ✅ | | | | | | | | | | | | | | | | | | | |
 | [rowena78778](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/rowena78778.md) | ✅ |   | | | | | | | | | | | | | | | | | | | |
 | [pillowtalk-Qy](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/pillowtalk-Qy.md) | ⭕️ |   | | | | | | | | | | | | | | | | | | | |
 | [Moizwmoi](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/Moizwmoi.md) | ✅ |   | | | | | | | | | | | | | | | | | | | |
@@ -225,6 +225,9 @@ How to DeFi [How to DeFi 简介 | How to DeFi: Advanced（中文版） ](https:/
 | [gopractitioner](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/gopractitioner.md) | ⭕️ | ⭕️ |   | | | | | | | | | | | | | | | | | | |
 | [L-sage](https://github.com/IntensiveCoLearning/Start-Web3/blob/main/L-sage.md) | ✅ |   | | | | | | | | | | | | | | | | | | | |
 <!-- END_COMMIT_TABLE -->
+
+
+
 
 
 
